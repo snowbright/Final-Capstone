@@ -13,7 +13,7 @@ Note: the project files and the PowerPoint Presentation are located in the same 
 * 2018 data from Lending Club dataset 
 * 495,242 rows 
 
-## Part I: Predict annual income with job title, employment length and location
+## Part 1. Predict annual income with job title, employment length and location
 ### Features 
 Feature | Example | Type | Cardinality 
 ------------ | ------------- |------------- |------------- 
@@ -37,7 +37,7 @@ Employment Length | 10+ years | Categorical | 11
 * R-squared: 0.14
 * RMSE: $78K
 
-## Part II: Use only job title to predict salary for zip code 112xx
+## Part 2. Use only job title to predict salary for zip code 112xx
 
 ### Semantic Analysis 
 * NLP job title 
